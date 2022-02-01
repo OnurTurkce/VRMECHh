@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 20
+  controlID: 101
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 21
+  controlID: 102
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 22
+  controlID: 103
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - "Assets/Estetik/Tasar\u0131mlar"
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - "Assets/Estetik/Tasar\u0131mlar"
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\VRMech\VRMECHh\VRMech
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 621}
-    m_SelectedIDs: 50690000
-    m_LastClickedID: 26960
-    m_ExpandedIDs: 000000004a6000004c6000004e60000050600000526000005460000056600000586000005a6000005c6000005e60000060600000626000006460000066600000686000006a6000006c6000006e6000007060000094600000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: ae670000
+    m_LastClickedID: 26542
+    m_ExpandedIDs: 00000000a6670000a8670000aa670000ac670000ae670000b0670000b2670000b4670000b6670000b8670000ba670000bc670000be670000c0670000c2670000c4670000c6670000c8670000ca670000cc670000f0670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004a6000004c6000004e60000050600000526000005460000056600000586000005a6000005c6000005e60000060600000626000006460000066600000686000006a6000006c6000006e60000070600000
+    m_ExpandedIDs: 00000000a6670000a8670000aa670000ac670000ae670000b0670000b2670000b4670000b6670000b8670000ba670000bc670000be670000c0670000c2670000c4670000c6670000c8670000ca670000cc670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -487,10 +487,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 112}
-      m_SelectedIDs: c4620000
-      m_LastClickedID: 25284
-      m_ExpandedIDs: 02f6ffff7ef9ffff32fbffff30610000e8610000f261000030620000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 32fbfffffc5f0000b2600000bc600000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 191.97346, y: -87.15283, z: -2604.026}
+    m_Target: {x: 365.31494, y: 1022.41455, z: -1933.6445}
     speed: 2
-    m_Value: {x: 191.97346, y: -87.15283, z: -2604.026}
+    m_Value: {x: 365.31494, y: 1022.41455, z: -1933.6445}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -788,13 +788,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.002576397, y: -0.9185464, z: 0.39575177, w: 0.0064048804}
+    m_Target: {x: 0.06053366, y: -0.9394968, z: 0.24374066, w: 0.23382632}
     speed: 2
-    m_Value: {x: 0.002566288, y: -0.91895765, z: 0.39429572, w: 0.0064074704}
+    m_Value: {x: 0.06123939, y: -0.93858945, z: 0.24500877, w: 0.23509642}
   m_Size:
-    m_Target: 5428.591
+    m_Target: 4414.922
     speed: 2
-    m_Value: 5684.388
+    m_Value: 4622.9546
   m_Ortho:
     m_Target: 0
     speed: 2
